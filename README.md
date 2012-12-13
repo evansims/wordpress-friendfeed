@@ -1,14 +1,14 @@
-** Please note that this plugin is no longer under development. ** Development ceased after Facebook purchased FriendFeed and integrated much of it's backend technology into their service. I'm archiving the project here for education purposes only.
-
 # FriendFeed Activity Widget
-Contributors: evansims, nathanchase
-Tags: friendfeed, widget
-Requires at least: 2.5
-Tested up to: 2.5.1
-Stable tag: trunk
+
+* Contributors: [@evansims](/evansims), [nathanchase](https://twitter.com/nathanchase)
+* Tags: friendfeed, widget
+* Requires at least: 2.5
+* Tested up to: 2.5.1
+* Stable tag: trunk
 
 The FriendFeed Activity Widget is a WordPress widget pulls your FriendFeed stream and shares it with visitors to your blog.
 
+**Please note that this plugin is no longer under development.** — Development ceased after Facebook purchased FriendFeed and integrated much of it's backend technology into their service. I'm archiving the project here for education purposes only.
 
 ## Description
 
@@ -39,7 +39,7 @@ It is highly doubtful, though it has not been tested. Please let me know if you 
 
 ## Screenshots
 
-![An example of the widget in action.](https://raw.github.com/evansims/wordpress-brightkite/master/screenshot.jpg)
+![An example of the widget in action.](https://raw.github.com/evansims/wordpress-friendfeed/master/screenshot.jpg)
 
 
 ## Changes
